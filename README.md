@@ -30,6 +30,10 @@ Une fois le code executer vous aurez un fichier nommée data.csv.
 
 Pour la visualisation il vous faudra utiliser PowerBi et avoir la version de Powerbi 2.138 ( vous pouvez la télécharger sur le Microsoft Store )
 
+Le code met environ 30 min a s'executer, il faut compter 10 min de scrapping de donnnée avec environ 20 min de machine learning avec ROberta.
+
+Dans le dépot github vous retrouverez le fichier csv Brut, que l'on récupère après le webscrapping et le fichier csv finale que l'on récupère pour l'analyse de donnée.
+
 
 # Comment ça fonctionne ?
 
