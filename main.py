@@ -12,7 +12,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 from time import sleep
-
+import numpy as np
 from random import randint
 
 # Mise en place du header pour le  webscraping
