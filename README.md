@@ -10,7 +10,7 @@ Projet DataCamp du groupe 4.
 
 ## ElectoPulse
 
-Bienvenue dans le ReadME de nôtre projet DataCamp.
+Bienvenue dans le ReadME de notre projet DataCamp.
 
 Pour commencer il faut commencer par récuperer les fichiers et installer toutes les dépendances, mais pour vous le travail sera facile.
 
