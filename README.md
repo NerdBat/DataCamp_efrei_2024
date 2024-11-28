@@ -26,7 +26,7 @@ Enfin On va pouvoir lancer le code. vous pouvez executer le fichier main.ipynb d
 
 Penser a bien lancer la commande pour le "requirement.txt" afin de n'avoir aucun problème lors de l'execution.
 
-Une fois le code executer vous aurez un fichier nommée data.csv.
+Vous pouvez utiliser le fichier main.py ou le fichier code_finale.ipynb ou vous pourrez specifier a la toutes fin un chemin pour récupérer votre fichier csv pour l'analyse de donnée
 
 Pour la visualisation il vous faudra utiliser PowerBi et avoir la version de Powerbi 2.138 ( vous pouvez la télécharger sur le Microsoft Store )
 
