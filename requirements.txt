@@ -6,12 +6,9 @@ colorama
 wordcloud
 transformers
 seaborn
-beautifulsoup4
-time
-random
 requests
 jupyter
 boto3
 redshift_connector
-io
+beautifulsoup4
 
